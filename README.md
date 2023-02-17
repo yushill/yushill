@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yushill
+- 👋 Hi, I’m Yves Lhuillier (@yushill)
 
 I use GitHub for personal projects that, by nature, are not related to a unique domain of application.
 
@@ -9,7 +9,7 @@ Increasingly seduced by computer science I switched and finally obtained a PhD i
 
 - 🌱 I’m currently learning Julia
 
-Skilled C++ programmer, Python enthusiast, irrational Java antagonist, the rest is OK
+Skilled C++ programmer, Python enthusiast, irrational Java hater, the rest is fine.
 
 
 <!---
